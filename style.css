@@ -1,0 +1,65 @@
+*{
+    font-family: "Playwrite DE Grund", cursive;
+}
+
+header{
+    background-color: #E0F8F7;
+    height: 8rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.México{
+    display: flex;
+    align-items: center;
+    margin-bottom: 1rem;
+    
+}
+
+.México img{
+    width: 58rem;
+    margin-left: 2rem;
+    margin-top: 1rem;
+}
+
+.México p{
+    max-width: 38rem;
+    margin-left: 2rem;
+    margin-top: 1rem;
+}
+
+.RepublicaDomenicana{
+    background-color: #E0FFFF;
+    height: 30rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+    padding: 1rem;
+}
+
+.RepublicaDomenicana img{
+    width: 30rem;
+}
+
+.RepublicaDomenicana p{
+    max-width: 38rem;
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
+
+.GaleriadeImagens{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 1rem;
+    margin-top: 1rem;
+}
+
+.GaleriadeImagens img{
+    width: 94rem;
+}
+
+
+
